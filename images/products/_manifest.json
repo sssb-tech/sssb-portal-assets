@@ -1,0 +1,707 @@
+{
+  "01_hi-vis-vests/WC2B": {
+    "path": "01_hi-vis-vests/WC2B",
+    "downloaded": [
+      "WC2BFZFLYM6_p02.jpg",
+      "WC2B-technical-drawing.jpg",
+      "size-chart.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/WC2BS": {
+    "path": "01_hi-vis-vests/WC2BS",
+    "downloaded": [
+      "WC2BSFZFLYM6_p03.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/WC2BS-JKR": {
+    "path": "01_hi-vis-vests/WC2BS-JKR",
+    "downloaded": [
+      "WC2BS-JKR.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/WC1BS": {
+    "path": "01_hi-vis-vests/WC1BS",
+    "downloaded": [
+      "WC1BSFZFLYM6-p01.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/WC1BS-Executive-Type-A": {
+    "path": "01_hi-vis-vests/WC1BS-Executive-Type-A",
+    "downloaded": [
+      "WC1BS-Executive-Type-A_p06.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/TVB-Harness": {
+    "path": "01_hi-vis-vests/TVB-Harness",
+    "downloaded": [
+      "TVBFVBFLYM6_p04.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/TVB-JKR": {
+    "path": "01_hi-vis-vests/TVB-JKR",
+    "downloaded": [
+      "TVB-JKR.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/TVB-FVZ-FRO-TNB": {
+    "path": "01_hi-vis-vests/TVB-FVZ-FRO-TNB",
+    "downloaded": [
+      "TVBFVZFROM6_p08.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/T2B-Tabard": {
+    "path": "01_hi-vis-vests/T2B-Tabard",
+    "downloaded": [
+      "T2BNVEFLYM6_p05.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/Enforcement-Type-A": {
+    "path": "01_hi-vis-vests/Enforcement-Type-A",
+    "downloaded": [
+      "enforcement-vest-type-A.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/Enforcement-Type-B": {
+    "path": "01_hi-vis-vests/Enforcement-Type-B",
+    "downloaded": [
+      "enforcement-vest-type-B.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/JKR-Enforcement-Type-A": {
+    "path": "01_hi-vis-vests/JKR-Enforcement-Type-A",
+    "downloaded": [
+      "JKR-enforcement-type-A.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/JPJ-Enforcement-Type-E": {
+    "path": "01_hi-vis-vests/JPJ-Enforcement-Type-E",
+    "downloaded": [
+      "JPJ-enforcement-type-E.png"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/JPJ-Vest": {
+    "path": "01_hi-vis-vests/JPJ-Vest",
+    "downloaded": [
+      "JPJ-Vest.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/RELA-Vest": {
+    "path": "01_hi-vis-vests/RELA-Vest",
+    "downloaded": [
+      "RELA-vest.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/Auxiliary-Police": {
+    "path": "01_hi-vis-vests/Auxiliary-Police",
+    "downloaded": [
+      "Polis-Bantuan.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/Reflective-Front-Badges": {
+    "path": "01_hi-vis-vests/Reflective-Front-Badges",
+    "downloaded": [
+      "front-badges.png"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/Reflective-Back-Badges": {
+    "path": "01_hi-vis-vests/Reflective-Back-Badges",
+    "downloaded": [
+      "back-badges.png"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/Reflective-Tapes": {
+    "path": "01_hi-vis-vests/Reflective-Tapes",
+    "downloaded": [
+      "reflective-tapes.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/Collar-for-Vest": {
+    "path": "01_hi-vis-vests/Collar-for-Vest",
+    "downloaded": [
+      "Fabric-Collar-Blue.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/Epaulette": {
+    "path": "01_hi-vis-vests/Epaulette",
+    "downloaded": [
+      "epaulette.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/Pockets-for-Vest": {
+    "path": "01_hi-vis-vests/Pockets-for-Vest",
+    "downloaded": [
+      "pockets-for-vest.jpg"
+    ],
+    "failed": []
+  },
+  "01_hi-vis-vests/Reflective-Name-Tag": {
+    "path": "01_hi-vis-vests/Reflective-Name-Tag",
+    "downloaded": [
+      "nametag-accessories.jpg"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/RC1B-JKR": {
+    "path": "02_hi-vis-rainwear/RC1B-JKR",
+    "downloaded": [
+      "RC1B-JKR.jpg"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/RC1BS": {
+    "path": "02_hi-vis-rainwear/RC1BS",
+    "downloaded": [
+      "RC1BS.jpg"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/RC1BS-JKR": {
+    "path": "02_hi-vis-rainwear/RC1BS-JKR",
+    "downloaded": [
+      "RC1BS-JKR.jpg"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/RJ1B-RP1B-JKR": {
+    "path": "02_hi-vis-rainwear/RJ1B-RP1B-JKR",
+    "downloaded": [
+      "RJP1B-JKR.jpg"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/RJ1BS-RP1B-JKR": {
+    "path": "02_hi-vis-rainwear/RJ1BS-RP1B-JKR",
+    "downloaded": [
+      "RJP1BS-JKR.jpg"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/RC2B": {
+    "path": "02_hi-vis-rainwear/RC2B",
+    "downloaded": [
+      "RC2B.jpg"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/RC2BS": {
+    "path": "02_hi-vis-rainwear/RC2BS",
+    "downloaded": [
+      "RC2BS.jpg"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/RJ1BS": {
+    "path": "02_hi-vis-rainwear/RJ1BS",
+    "downloaded": [
+      "RJ1BS.jpg"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/RJ2B": {
+    "path": "02_hi-vis-rainwear/RJ2B",
+    "downloaded": [
+      "RJ2B.jpg"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/RELA-Rainsuit-RJ2BS": {
+    "path": "02_hi-vis-rainwear/RELA-Rainsuit-RJ2BS",
+    "downloaded": [
+      "RELA-RJ2BS.jpg"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/RJ2BS": {
+    "path": "02_hi-vis-rainwear/RJ2BS",
+    "downloaded": [
+      "RJ2BS.jpg"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/Rain-Pants": {
+    "path": "02_hi-vis-rainwear/Rain-Pants",
+    "downloaded": [
+      "Rain-Pants.jpg"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/Reflective-Front-Badges": {
+    "path": "02_hi-vis-rainwear/Reflective-Front-Badges",
+    "downloaded": [
+      "front-badges.png"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/Reflective-Back-Badges": {
+    "path": "02_hi-vis-rainwear/Reflective-Back-Badges",
+    "downloaded": [
+      "back-badges.png"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/Reflective-Tapes": {
+    "path": "02_hi-vis-rainwear/Reflective-Tapes",
+    "downloaded": [
+      "reflective-tapes.jpg"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/Pockets-for-Rainwear": {
+    "path": "02_hi-vis-rainwear/Pockets-for-Rainwear",
+    "downloaded": [
+      "pockets-for-rainwear.jpg"
+    ],
+    "failed": []
+  },
+  "02_hi-vis-rainwear/Reflective-Name-Tag": {
+    "path": "02_hi-vis-rainwear/Reflective-Name-Tag",
+    "downloaded": [
+      "nametag-accessories.jpg"
+    ],
+    "failed": []
+  },
+  "03_hi-vis-tshirts/TS1BS": {
+    "path": "03_hi-vis-tshirts/TS1BS",
+    "downloaded": [
+      "TS1BS.jpg"
+    ],
+    "failed": []
+  },
+  "03_hi-vis-tshirts/TS2B": {
+    "path": "03_hi-vis-tshirts/TS2B",
+    "downloaded": [
+      "TS2B.jpg"
+    ],
+    "failed": []
+  },
+  "03_hi-vis-tshirts/TS2BS": {
+    "path": "03_hi-vis-tshirts/TS2BS",
+    "downloaded": [
+      "TS2BS.jpg"
+    ],
+    "failed": []
+  },
+  "03_hi-vis-tshirts/TS1BS-Long-Sleeve": {
+    "path": "03_hi-vis-tshirts/TS1BS-Long-Sleeve",
+    "downloaded": [
+      "TS1BS-Long-Sleeve.jpg"
+    ],
+    "failed": []
+  },
+  "03_hi-vis-tshirts/TS2B-Long-Sleeve": {
+    "path": "03_hi-vis-tshirts/TS2B-Long-Sleeve",
+    "downloaded": [
+      "TS2B-Long-Sleeve.jpg"
+    ],
+    "failed": []
+  },
+  "03_hi-vis-tshirts/TS2BS-Long-Sleeve": {
+    "path": "03_hi-vis-tshirts/TS2BS-Long-Sleeve",
+    "downloaded": [
+      "TS2BS-Long-Sleeve.jpg"
+    ],
+    "failed": []
+  },
+  "03_hi-vis-tshirts/Reflective-Front-Badges": {
+    "path": "03_hi-vis-tshirts/Reflective-Front-Badges",
+    "downloaded": [
+      "front-badges.png"
+    ],
+    "failed": []
+  },
+  "03_hi-vis-tshirts/Reflective-Back-Badges": {
+    "path": "03_hi-vis-tshirts/Reflective-Back-Badges",
+    "downloaded": [
+      "back-badges.png"
+    ],
+    "failed": []
+  },
+  "03_hi-vis-tshirts/Reflective-Tapes": {
+    "path": "03_hi-vis-tshirts/Reflective-Tapes",
+    "downloaded": [
+      "reflective-tapes.jpg"
+    ],
+    "failed": []
+  },
+  "03_hi-vis-tshirts/Reflective-Name-Tag": {
+    "path": "03_hi-vis-tshirts/Reflective-Name-Tag",
+    "downloaded": [
+      "nametag-accessories.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/traffic-cones/CONE-PESB-BNH-75": {
+    "path": "traffic-management/traffic-cones/CONE-PESB-BNH-75",
+    "downloaded": [
+      "CONE-PESB-BNH-75.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/traffic-cones/CONE-PERB-CX-7525": {
+    "path": "traffic-management/traffic-cones/CONE-PERB-CX-7525",
+    "downloaded": [
+      "CONE-PERB-CX-7525.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/traffic-cones/CONE-PERB-HX-7533": {
+    "path": "traffic-management/traffic-cones/CONE-PERB-HX-7533",
+    "downloaded": [
+      "CONE-PERB-HX-7533.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/traffic-cones/CONE-PERB-DWT-7545": {
+    "path": "traffic-management/traffic-cones/CONE-PERB-DWT-7545",
+    "downloaded": [
+      "CONE-PERB-DWT-7545.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/traffic-cones/CONE-PVC-ES-7520": {
+    "path": "traffic-management/traffic-cones/CONE-PVC-ES-7520",
+    "downloaded": [
+      "CONE-PVC-ES-7520.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/traffic-cones/CONE-PVC-DWT-7542": {
+    "path": "traffic-management/traffic-cones/CONE-PVC-DWT-7542",
+    "downloaded": [
+      "CONE-PVC-DWT-7542.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/traffic-cones/CONE-PVC-ES-7542": {
+    "path": "traffic-management/traffic-cones/CONE-PVC-ES-7542",
+    "downloaded": [
+      "CONE-PVC-ES-7542.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/traffic-cones/CONE-PVCRB-DWT-7530": {
+    "path": "traffic-management/traffic-cones/CONE-PVCRB-DWT-7530",
+    "downloaded": [
+      "CONE-PVCRB-DWT-7530.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/traffic-cones/CONE-PVCRB-ES-7540": {
+    "path": "traffic-management/traffic-cones/CONE-PVCRB-ES-7540",
+    "downloaded": [
+      "CONE-PVCRB-ES-7540.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/traffic-cones/CONE-TR-BNH-710": {
+    "path": "traffic-management/traffic-cones/CONE-TR-BNH-710",
+    "downloaded": [
+      "CONE-TR-BNH-710.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/traffic-cones/CONE-SPERB-HX-10055": {
+    "path": "traffic-management/traffic-cones/CONE-SPERB-HX-10055",
+    "downloaded": [
+      "CONE-SPERB-HX-10055.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/traffic-cones/CONE-PVC-DWT-4510": {
+    "path": "traffic-management/traffic-cones/CONE-PVC-DWT-4510",
+    "downloaded": [
+      "PVC-Cones-DWT-4510.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/traffic-cones/PVC-cones-range": {
+    "path": "traffic-management/traffic-cones/PVC-cones-range",
+    "downloaded": [
+      "PVC-cones-range.png"
+    ],
+    "failed": []
+  },
+  "traffic-management/collapsible-cones/CONE-CC-DWT-5021": {
+    "path": "traffic-management/collapsible-cones/CONE-CC-DWT-5021",
+    "downloaded": [
+      "CONE-CC-DWT-5021.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/collapsible-cones/CONE-CC-DWT-5525": {
+    "path": "traffic-management/collapsible-cones/CONE-CC-DWT-5525",
+    "downloaded": [
+      "CONE-CC-DWT-5525.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/collapsible-cones/CONE-CC-TRI-7530": {
+    "path": "traffic-management/collapsible-cones/CONE-CC-TRI-7530",
+    "downloaded": [
+      "CONE-CC-TRI-7530.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/collapsible-cones/CONE-CC-WAW-675": {
+    "path": "traffic-management/collapsible-cones/CONE-CC-WAW-675",
+    "downloaded": [
+      "CONE-CC-WAW-675.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/collapsible-cones/_range": {
+    "path": "traffic-management/collapsible-cones/_range",
+    "downloaded": [
+      "collapsible-cones-range.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/baton-lights/BATON-ST900R1": {
+    "path": "traffic-management/baton-lights/BATON-ST900R1",
+    "downloaded": [
+      "BATON-ST900R1.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/baton-lights/BATON-T260": {
+    "path": "traffic-management/baton-lights/BATON-T260",
+    "downloaded": [
+      "BATON-T260.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/baton-lights/BATON-ST500-Rechargeable": {
+    "path": "traffic-management/baton-lights/BATON-ST500-Rechargeable",
+    "downloaded": [
+      "BATON-ST500-Rechargeable.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/baton-lights/_range": {
+    "path": "traffic-management/baton-lights/_range",
+    "downloaded": [
+      "baton-lights-range.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/signages/A-Stand-Temporary-Sign": {
+    "path": "traffic-management/signages/A-Stand-Temporary-Sign",
+    "downloaded": [
+      "A-stand-construction-sign.png"
+    ],
+    "failed": []
+  },
+  "traffic-management/signages/Rubber-Base-Uni-pole": {
+    "path": "traffic-management/signages/Rubber-Base-Uni-pole",
+    "downloaded": [
+      "Men-At-Work-POLE-SIGN.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/signages/A-Stand-Temporary-Sign-LLM": {
+    "path": "traffic-management/signages/A-Stand-Temporary-Sign-LLM",
+    "downloaded": [
+      "A-stand-LLM.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/signages/_range": {
+    "path": "traffic-management/signages/_range",
+    "downloaded": [
+      "temp-construction-signages.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/SINAR-Reboundable-Pole": {
+    "path": "traffic-management/other/SINAR-Reboundable-Pole",
+    "downloaded": [
+      "REBOUNDABLE-POLE.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/Workzone-Triangle": {
+    "path": "traffic-management/other/Workzone-Triangle",
+    "downloaded": [
+      "Workzone-Triangle.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/Barrier-Hoarding": {
+    "path": "traffic-management/other/Barrier-Hoarding",
+    "downloaded": [
+      "Barrier-Hoarding.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/LED-Blinker-WL10": {
+    "path": "traffic-management/other/LED-Blinker-WL10",
+    "downloaded": [
+      "Blinker-WL10-Amber.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/LED-Blinker-WL04-Blue": {
+    "path": "traffic-management/other/LED-Blinker-WL04-Blue",
+    "downloaded": [
+      "Blinker-WL04-Blue.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/LED-Blinker-WL04-Amber": {
+    "path": "traffic-management/other/LED-Blinker-WL04-Amber",
+    "downloaded": [
+      "Blinker-WL04-Amber.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/Solar-Blinker": {
+    "path": "traffic-management/other/Solar-Blinker",
+    "downloaded": [
+      "Solar-Blinker-WL04S.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/LED-Blinker-AB196": {
+    "path": "traffic-management/other/LED-Blinker-AB196",
+    "downloaded": [
+      "Blinker-AB196.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/Retroreflective-Baton": {
+    "path": "traffic-management/other/Retroreflective-Baton",
+    "downloaded": [
+      "retroreflective-baton.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/Retroreflective-Flag": {
+    "path": "traffic-management/other/Retroreflective-Flag",
+    "downloaded": [
+      "retroreflective-flag.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/Plastic-Chain": {
+    "path": "traffic-management/other/Plastic-Chain",
+    "downloaded": [
+      "plastic-chain.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/Hazard-Tapes": {
+    "path": "traffic-management/other/Hazard-Tapes",
+    "downloaded": [
+      "hazard-tapes.png"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/Reflective-Safety-Belt-Cover": {
+    "path": "traffic-management/other/Reflective-Safety-Belt-Cover",
+    "downloaded": [
+      "safety-belt-cover.png"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/Macadam-TRIMAC": {
+    "path": "traffic-management/other/Macadam-TRIMAC",
+    "downloaded": [
+      "macadam.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/Portable-Weighing-Scales": {
+    "path": "traffic-management/other/Portable-Weighing-Scales",
+    "downloaded": [
+      "portable-weighing-scales.jpg"
+    ],
+    "failed": []
+  },
+  "traffic-management/other/AutoLight-Plus": {
+    "path": "traffic-management/other/AutoLight-Plus",
+    "downloaded": [
+      "AutoLight-Plus.jpg"
+    ],
+    "failed": []
+  },
+  "05_ppe/Reflective-Armbands": {
+    "path": "05_ppe/Reflective-Armbands",
+    "downloaded": [
+      "reflective-armbands.jpg"
+    ],
+    "failed": []
+  },
+  "05_ppe/Helmet-Visor-BGVH-SI-1": {
+    "path": "05_ppe/Helmet-Visor-BGVH-SI-1",
+    "downloaded": [
+      "Helmet-visor-proguard.jpg"
+    ],
+    "failed": []
+  },
+  "05_ppe/Safety-Eyewear-Proguard": {
+    "path": "05_ppe/Safety-Eyewear-Proguard",
+    "downloaded": [
+      "safety-eyewear.jpg"
+    ],
+    "failed": []
+  },
+  "05_ppe/Safety-Helmet-Proguard": {
+    "path": "05_ppe/Safety-Helmet-Proguard",
+    "downloaded": [
+      "safety-helmet-proguard.jpg"
+    ],
+    "failed": []
+  },
+  "05_ppe/Safety-Shoes-Hammer-King": {
+    "path": "05_ppe/Safety-Shoes-Hammer-King",
+    "downloaded": [
+      "safety-shoes-hammer-king.jpg"
+    ],
+    "failed": []
+  },
+  "05_ppe/Safety-Shoes-JJM": {
+    "path": "05_ppe/Safety-Shoes-JJM",
+    "downloaded": [
+      "safety-shoes-JJM.jpg"
+    ],
+    "failed": []
+  },
+  "05_ppe/Safety-Shoes-Safety-Jogger": {
+    "path": "05_ppe/Safety-Shoes-Safety-Jogger",
+    "downloaded": [
+      "safety-shoes-safety-jogger.jpg"
+    ],
+    "failed": []
+  },
+  "_shared/fabric-and-size": {
+    "path": "_shared/fabric-and-size",
+    "downloaded": [
+      "polyester-netting-colour-sample.jpg",
+      "waistcoat-size-chart.jpg",
+      "basic-tapes-sirim-2022.jpg",
+      "footer-logos.png"
+    ],
+    "failed": []
+  }
+}
